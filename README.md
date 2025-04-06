@@ -1,6 +1,6 @@
 # 🎓 AI-Based Personalized Curriculum Platform
 
-## 🚩 Problem Statement
+## 🚩 Problem that every Student face : 
 
 The current education system follows a rigid, standardized curriculum that assumes every student learns at the same pace and in the same way. However, the reality is vastly different — students vary in their learning speed, interests, subject preferences, and future career goals. This mismatch leads to:
 
@@ -15,7 +15,7 @@ As a result, students struggle with motivation, fall behind in specific areas, a
 
 ---
 
-## 💡 Idea & Solution: AI-Based Personalized Curriculum Platform
+## 💡 Solution: AI-Based Personalized Curriculum Platform
 
 We propose a smart, AI-powered platform designed to empower students with personalized, flexible, and independent learning — making education more meaningful, engaging, and effective.
 
